@@ -1,7 +1,7 @@
 import express from 'express';
 import bodyParser from 'body-parser';
 import dotenv from 'dotenv';
-import itemRoutes from './routes/items.js';
+import itemRoutes from './items.js';
 
 dotenv.config();
 
